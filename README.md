@@ -1,3 +1,3 @@
 # demo--
 this is my first git repository .
-Aothor - muneer 
+Author - muneer 
